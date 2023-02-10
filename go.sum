@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/gounreal/uereader v0.0.0-20230209212836-809564c84c04 h1:qzLmz7LHuyWeUsURkWFyFOwfjlrNilw+U4sida2YFB4=
+github.com/gounreal/uereader v0.0.0-20230209212836-809564c84c04/go.mod h1:jsqCJ1uBOd797r3B7V5QJEN/wMoFR3qC3YLDpCDCiV0=
