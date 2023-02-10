@@ -5,7 +5,7 @@ an Unreal Engine's manifest parser
 ## Installation
 
 ```bash
-go add github.com/gounreal/uemanifest
+go get github.com/gounreal/uemanifest
 ```
 
 ## Usage
